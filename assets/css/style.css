@@ -114,9 +114,9 @@ body {
 .hero-btn {
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
-    background-color: #25F18B;
+    background-color: #f57400;
     border-radius: 10px;
-    border: 1px solid #25F18B;
+    border: 1px solid #f57400;
     width: 210px;
     height: 51px;
     color: white;
